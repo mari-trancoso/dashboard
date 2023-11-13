@@ -20,5 +20,9 @@ Este é um projeto de dashboard para acompanhar dados relacionados a uma obra. E
    - Insira dados de resíduos usando o formulário correspondente.
    - O gráfico exibe a quantidade de resíduos de diferentes classes em cada mês.
 
-
 <img width="944" alt="image" src="https://github.com/mari-trancoso/dashboard/assets/111318815/7a608c06-6721-47a9-b945-b227b18fe9ea">
+
+## Como utilizar o repositório
+
+Clone o repositório 
+
